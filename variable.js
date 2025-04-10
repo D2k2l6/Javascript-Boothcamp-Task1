@@ -1,6 +1,5 @@
 let favoriteColour = "Blue";
-console.log("Favorite Colour:");
+console.log("Favorite Colour:" Blue);
 
-// Reassign favoriteColour to a different color
 favoriteColour = "Green";
-console.log("Updated Favorite Colour:");
+console.log("Updated Favorite Colour:" Green);
