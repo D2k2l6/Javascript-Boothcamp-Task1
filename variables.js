@@ -1,7 +1,6 @@
-let name = "Ndivhuwo";
-let age = 25;
-let isStudent = true;
+let favoriteColour = "Blue";
+console.log("Favorite Colour:");
 
-console.log("Name:");
-console.log("Age:");
-console.log("Is Student:");
+// Reassign favoriteColour to a different color
+favoriteColour = "Green";
+console.log("Updated Favorite Colour:");
